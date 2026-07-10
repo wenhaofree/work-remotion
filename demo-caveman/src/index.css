@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #9fe870;
+  --color-primary-pale: #e2f6d5;
+  --color-primary-neutral: #c5edab;
+  --color-canvas: #ffffff;
+  --color-canvas-soft: #e8ebe6;
+  --color-ink: #0e0f0c;
+  --color-ink-deep: #163300;
+  --color-body: #454745;
+  --color-mute: #868685;
+  --color-positive: #2ead4b;
+  --color-negative: #d03238;
+  --color-negative-bg: #320707;
+  --color-accent-orange: #ffc091;
+  --color-accent-cyan: #38c8ff;
+}
